@@ -1,1 +1,1 @@
-texto de exemplo editado
+texto de exemplo editado para branch nova
